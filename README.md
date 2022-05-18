@@ -1,10 +1,18 @@
-<h1><img src="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359" width="30"/> Hi there, I'm Apoo</h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I'm+Sootashi+(known+as+S00T4);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/></h1>
+
+
+
+### Hi, I'm Sootashi, currently 16 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
+
+- 🔭 I’m currently working on [VoltBot](https://voltbotv1.xyz)
+- 📫 How to reach me: [Discord](https://discord.gg/j9WzjkA) / [Mail](contact@voltbotv1.xyz)
+- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
+- 🥖 I live and study in La Rochelle (France)
+ 
 
 <img align="right" alt="Apoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=S00K4Dev&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=apoow3b&theme=tokyonight)
-- 💻 I am a young student and I live in France.
-- 🔩 I love developed
 
 ---
 
